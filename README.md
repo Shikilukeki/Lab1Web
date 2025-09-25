@@ -5,13 +5,6 @@
 
 ---
 
-## 🎯 Tujuan
-1. Memahami struktur dasar HTML.  
-2. Mengenal tag-tag dasar HTML.  
-3. Membuat dokumen HTML sederhana dengan menggunakan tag dasar.  
-
----
-
 ## 📝 Langkah Praktikum
 
 ### Struktur Dasar
