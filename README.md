@@ -5,7 +5,7 @@
 
 ---
 
-## 📝 Langkah Praktikum
+## Langkah Praktikum
 
 ### Struktur Dasar
 ```html
