@@ -184,4 +184,4 @@ Hasil:
 
 ### Hasil cek Validator
 
-![Hasil Validator](https://github.com/Shikilukeki/Lab1Web/blob/main/Lab1Web/ss/08_validator.png)
+![Hasil Validator](https://github.com/Shikilukeki/Lab1Web/blob/main/Lab1Web/ss/08_validator.png.png)
