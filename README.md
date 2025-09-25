@@ -28,7 +28,7 @@
 ```
 Hasil:
 
-![Hasil Step 1](ss/01_skeleton.png)
+![Hasil Step 1](https://github.com/Shikilukeki/Lab1Web/blob/main/Lab1Web/ss/01_skeleton.png)
 
 ### Step 2 - Paragraf
 ```html
