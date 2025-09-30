@@ -1,6 +1,8 @@
 # Praktikum 1 - HTML Dasar
-**Nama:** [Rifqi Maulana]  
-**NIM:** [312410529]  
+**Nama:** Rifqi Maulana
+
+**NIM:** 312410529
+
 **Mata Kuliah:** Pemrograman Web  
 
 ---
@@ -174,7 +176,3 @@ Hasil:
 Hasil: 
 
 ![Hasil Halaman2](https://github.com/Shikilukeki/Lab1Web/blob/main/Lab1Web/ss/07_halaman2.png)
-
-### Hasil cek Validator
-
-![Hasil Validator](https://github.com/Shikilukeki/Lab1Web/blob/main/Lab1Web/ss/08_validator.png.png)
